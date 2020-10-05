@@ -1,1 +1,3 @@
-# Code-in-C-
+# Code-in-C
+
+Competetive coding in c
